@@ -1,0 +1,20 @@
+``````````````````````````````````````````````````````
+https://www.guvi.com/           - website
+guvi.com                        - domain name
+https://www.guvi.com/(courses)  - webpages
+HTML                            - skeleton of website
+body                            - all the data that user sees.
+head                            - external style, all the internal stylings, external reference link, meta tags
+
+all the data should be inside the tag of html
+all the elements should be inside the tags
+
+meta    - 
+
+h1 - h6 - heading   - block
+p       - para      - block
+a       - anchro    - inline
+img     - image     - inline
+hr                  - block
+br      - break     - block
+label   -           - inline
